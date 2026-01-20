@@ -1,0 +1,11 @@
+title: "Your Site Title"
+description: "A short description of the site"
+baseurl: "" # set to "/repo-name" for project pages, empty for user/organization pages
+url: "https://faewang.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+markdown: kramdown
