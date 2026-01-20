@@ -1,5 +1,5 @@
-title: "Your Site Title"
-description: "A short description of the site"
+title: "Hey Fae"
+description: "A playground for Fae to do Fae things"
 baseurl: "" # set to "/repo-name" for project pages, empty for user/organization pages
 url: "https://faewang.github.io"
 theme: minima
