@@ -1,11 +1,13 @@
 title: "Hey Fae"
 description: "A playground for Fae to do Fae things"
-baseurl: "" # set to "/repo-name" for project pages, empty for user/organization pages
 url: "https://faewang.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
 markdown: kramdown
+# Optional (nice for blogging)
+permalink: /:categories/:year/:month/:day/:title/
