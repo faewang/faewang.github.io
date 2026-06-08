@@ -1,4 +1,4 @@
-# Long's Website
+# Hey Fae
 
 A free static website that can be hosted with GitHub Pages.
 
