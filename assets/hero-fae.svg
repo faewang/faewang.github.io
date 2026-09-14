@@ -1,0 +1,72 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" width="900" height="520">
+  <defs>
+    <clipPath id="cp"><rect width="900" height="520"/></clipPath>
+  </defs>
+  <g clip-path="url(#cp)">
+
+    <!-- Background -->
+    <rect width="900" height="520" fill="#fdf7f8"/>
+
+    <!-- Large decorative circle — top right -->
+    <circle cx="780" cy="-30" r="260" fill="#d4506e" opacity="0.08"/>
+    <!-- Medium circle — bottom right -->
+    <circle cx="860" cy="480" r="180" fill="#d4506e" opacity="0.12"/>
+    <!-- Small accent circle -->
+    <circle cx="640" cy="80" r="60" fill="#e8839f" opacity="0.15"/>
+
+    <!-- Oval logo shape — background watermark -->
+    <ellipse cx="700" cy="280" rx="200" ry="115" fill="none" stroke="#d4506e" stroke-width="3" opacity="0.12"/>
+
+    <!-- Vertical rule -->
+    <line x1="500" y1="60" x2="500" y2="460" stroke="#f0dce2" stroke-width="1"/>
+
+    <!-- Eyebrow -->
+    <text x="60" y="110" font-family="Jost, sans-serif" font-weight="900" font-size="13" fill="#d4506e" letter-spacing="3">WANG FAE · 王废</text>
+
+    <!-- H1 -->
+    <text x="56" y="195" font-family="Jost, sans-serif" font-weight="900" font-size="80" fill="#1c1018" letter-spacing="-1">Writer.</text>
+    <text x="56" y="280" font-family="Jost, sans-serif" font-weight="900" font-size="80" fill="#1c1018" letter-spacing="-1">Director.</text>
+
+    <!-- Italic body -->
+    <text x="60" y="330" font-family="Lora, Georgia, serif" font-style="italic" font-size="18" fill="#6b5560">Teaching everyday English the way people actually speak it.</text>
+
+    <!-- Tag: 废话英语 -->
+    <rect x="60" y="360" width="120" height="30" rx="15" fill="#d4506e"/>
+    <text x="120" y="380" text-anchor="middle" font-family="Jost, sans-serif" font-weight="700" font-size="12" fill="white">废话英语</text>
+    <!-- Tag: followers -->
+    <rect x="192" y="360" width="128" height="30" rx="15" fill="none" stroke="#d4506e" stroke-width="1.5"/>
+    <text x="256" y="380" text-anchor="middle" font-family="Jost, sans-serif" font-weight="700" font-size="12" fill="#d4506e">50k+ followers</text>
+    <!-- Tag: Australia -->
+    <rect x="332" y="360" width="100" height="30" rx="15" fill="none" stroke="#f0dce2" stroke-width="1.5"/>
+    <text x="382" y="380" text-anchor="middle" font-family="Jost, sans-serif" font-weight="700" font-size="12" fill="#6b5560">Australia</text>
+
+    <!-- Right: decorative large character -->
+    <text x="530" y="240" font-family="Jost, sans-serif" font-weight="900" font-size="140" fill="#d4506e" opacity="0.07">废</text>
+
+    <!-- Right column header -->
+    <text x="540" y="120" font-family="Jost, sans-serif" font-weight="900" font-size="11" fill="#d4506e" letter-spacing="2">IMPERIAL COLLEGE · TSINGHUA</text>
+    <line x1="540" y1="130" x2="860" y2="130" stroke="#f0dce2" stroke-width="1"/>
+
+    <!-- Role list -->
+    <text x="540" y="175" font-family="Jost, sans-serif" font-weight="700" font-size="15" fill="#1c1018">Writer</text>
+    <line x1="540" y1="185" x2="860" y2="185" stroke="#f0dce2" stroke-width="0.5"/>
+    <text x="540" y="215" font-family="Jost, sans-serif" font-weight="700" font-size="15" fill="#1c1018">Director</text>
+    <line x1="540" y1="225" x2="860" y2="225" stroke="#f0dce2" stroke-width="0.5"/>
+    <text x="540" y="255" font-family="Jost, sans-serif" font-weight="700" font-size="15" fill="#1c1018">Marketer</text>
+    <line x1="540" y1="265" x2="860" y2="265" stroke="#f0dce2" stroke-width="0.5"/>
+    <text x="540" y="295" font-family="Jost, sans-serif" font-weight="700" font-size="15" fill="#1c1018">Band vocalist</text>
+    <line x1="540" y1="305" x2="860" y2="305" stroke="#f0dce2" stroke-width="0.5"/>
+    <text x="540" y="335" font-family="Jost, sans-serif" font-weight="700" font-size="15" fill="#d4506e">English educator</text>
+    <line x1="540" y1="345" x2="860" y2="345" stroke="#f0dce2" stroke-width="1"/>
+
+    <!-- Oval logo mark -->
+    <ellipse cx="700" cy="415" rx="130" ry="52" fill="none" stroke="#d4506e" stroke-width="3.5"/>
+    <text x="700" y="428" text-anchor="middle" font-family="Jost, sans-serif" font-weight="900" font-style="italic" font-size="32" fill="#d4506e">Hey Fae</text>
+
+    <!-- Footer rule -->
+    <line x1="0" y1="510" x2="900" y2="510" stroke="#f0dce2" stroke-width="1"/>
+    <text x="60" y="505" font-family="Jost, sans-serif" font-weight="700" font-size="10" fill="#6b5560" letter-spacing="1">faewang.github.io</text>
+    <text x="840" y="505" text-anchor="end" font-family="Jost, sans-serif" font-weight="700" font-size="10" fill="#6b5560" letter-spacing="1">© 2026</text>
+
+  </g>
+</svg>
